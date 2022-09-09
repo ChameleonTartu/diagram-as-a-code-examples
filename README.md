@@ -25,3 +25,8 @@ This is project presents concept "Diagram as a Code", so architecture can be wri
 - GitHub: https://github.com/mingrammer/diagrams
 - StackOverflow: https://stackoverflow.com/questions/tagged/diagram+python
 - Ask your peers, who has experience with this tool
+
+
+## Want to support?
+
+<a href="https://www.buymeacoffee.com/chameleontartu"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=chameleontartu&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
